@@ -2,7 +2,7 @@
 html {
     background-image: url('./images/UkeBackground.jpg');
     background-size: cover;
-
+    height: 100%;
 }
 
 body {
